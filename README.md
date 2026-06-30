@@ -111,3 +111,5 @@ The simulation will demonstrate:
 - Custom business logic through configurable operators
 
 ⚠️ **Disclaimer**: This repository serves as a code showcase for demonstration purposes. It does not contain a fully runnable production environment or all proprietary backend dependencies.
+
+> **NDA Notice**: The source code in this repository is a sanitized showcase version. The complete implementation, business logic, and client-specific configurations are proprietary and covered by a non-disclosure agreement.
